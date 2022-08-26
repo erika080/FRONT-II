@@ -1,0 +1,12 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1 {
+    text-align:center;
+}
+
+.noticia{
+    border: 2px solid blueviolet;
+    margin: 2px;
+}
